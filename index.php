@@ -4,7 +4,7 @@
 */
 include 'functions.php';
 
-echo "I will try to establish a connection to oracle database <br>";
+echo "I will try to establish a connection with oracle database <br>";
 Oracle_connection_test();
 
 
